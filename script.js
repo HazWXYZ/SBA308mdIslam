@@ -128,4 +128,4 @@ const LearnerSubmissions = [
 // Execute the function
 const result = getLearnerData(CourseInfo, AssignmentGroup, LearnerSubmissions);
 
-console.log(result);
+console.log("Grades for Assignments 1 and 2, Learner ID, Average Grade", result);
